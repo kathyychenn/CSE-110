@@ -5,7 +5,9 @@
 
 **Welcome to my User Page!**
 
-![image](images/IMG_4244.jpg)
+[<p align="center">
+    <img src="images/IMG_4244.jpg"  width="40%" height="20%">
+</p>]
 
 ## Table of Contents
 - [Kathy's User Page](#kathys-user-page)
